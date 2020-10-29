@@ -1,12 +1,23 @@
-body{
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
     background-color: #fffbf7;
 }
-
-p{
+h1 {
+    color: #025157;
+  }
+#texto1{
     color: #46484c;
+}
+#texto2{
+    color: #8b8b8bcc;
 }
 
 #button{
     color: #fff;
     background-color: #025157;
+}
+li{
+    display: inline
 }
